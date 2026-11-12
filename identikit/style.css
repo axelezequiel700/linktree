@@ -1,0 +1,35 @@
+table {
+    border: 2px solid black;
+    margin: auto;
+}
+
+td {
+    background-color: rgb(40,40,40);
+    color: white;
+    padding: 2.5em;
+    font-size: 200%;
+}
+
+tr td+td {
+    width: 700px;
+}
+
+#rango-s {
+    background-color: purple; 
+}
+
+#rango-a {
+    background-color: greenyellow;   
+}
+
+#rango-b {
+    background-color: yellow;
+}
+
+#rango-c {
+    background-color: orange;  
+}
+
+#rango-d {
+    background-color: orangered;
+}
